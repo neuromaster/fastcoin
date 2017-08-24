@@ -1,4 +1,4 @@
-NEUROCRYPT Fork Developmet for Dice and Poker Tokans
+
 
 Fastcoin - a fork of Litecoin version with fast blocks and transactions. Like Litecoin it uses scrypt as a proof of work scheme.
 
